@@ -1,6 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cobolbaby&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-### 🌱 Good Good Study, Day Day Up
+<img src="https://github-readme-stats.vercel.app/api?username=cobolbaby&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
 **cobolbaby/cobolbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
